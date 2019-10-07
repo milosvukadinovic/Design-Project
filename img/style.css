@@ -256,7 +256,7 @@
     position: absolute;
     top: 160px;
     right: 0;
-    width: 100%;
+    width: 30%;
     height: 70px;
     background: rgba(255,255,255,0.2);
   }
@@ -773,6 +773,11 @@
   
   }
   
+  @media only screen and (max-width: 1150px){
+    .resources , .design-selection {
+      display:none;
+    }
+  }
   
   @media only screen and (min-width: 1150px) {
     footer a {
