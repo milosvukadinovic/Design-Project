@@ -480,6 +480,10 @@
   
   @media only screen and (max-width: 500px) {
   
+    .viewall, .next, .design-archives{
+      display:none;
+    }
+
     header {
       height: 250px;
       padding-top: 0;
@@ -555,6 +559,7 @@
   
   @media only screen and (min-width: 500px) and (max-width: 1150px) {
   
+    
     .requirements p:last-child {
       padding-bottom: 2em;
       padding-top: 2em;
