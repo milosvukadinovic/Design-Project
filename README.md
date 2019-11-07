@@ -1,5 +1,5 @@
 # Unigetrix [LIVE](https://design-technology-milos.herokuapp.com/)
-Concept design for Technology based website
+Concept design for Technology based website.
 
 ![Alt text](/img/ss.jpg)
 
@@ -11,7 +11,8 @@ Concept design for Technology based website
 
 ## Run
 
-Open index.html
+Open index.html in your browser.
+
 
 ## Authors
 
